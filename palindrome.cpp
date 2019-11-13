@@ -1,3 +1,4 @@
+//This programs will create a palindrome
 #include<iostream>
 #include<conio.h>
 #include<stdio.h>
